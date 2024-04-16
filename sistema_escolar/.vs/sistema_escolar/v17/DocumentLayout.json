@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monge\\source\\repos\\sistema_escolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9DC33-C6A3-4CC0-B109-469677E91240}|sistema_escolar\\sistema_escolar.csproj|c:\\users\\monge\\source\\repos\\sistema_escolar\\sistema_escolar\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C9DC33-C6A3-4CC0-B109-469677E91240}|sistema_escolar\\sistema_escolar.csproj|solutionrelative:sistema_escolar\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9DC33-C6A3-4CC0-B109-469677E91240}|sistema_escolar\\sistema_escolar.csproj|C:\\Users\\monge\\source\\repos\\sistema_escolar\\sistema_escolar\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4C9DC33-C6A3-4CC0-B109-469677E91240}|sistema_escolar\\sistema_escolar.csproj|solutionrelative:sistema_escolar\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9DC33-C6A3-4CC0-B109-469677E91240}|sistema_escolar\\sistema_escolar.csproj|c:\\users\\monge\\source\\repos\\sistema_escolar\\sistema_escolar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C9DC33-C6A3-4CC0-B109-469677E91240}|sistema_escolar\\sistema_escolar.csproj|solutionrelative:sistema_escolar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\monge\\source\\repos\\sistema_escolar\\sistema_escolar\\Form1.cs",
+              "RelativeDocumentMoniker": "sistema_escolar\\Form1.cs",
+              "ToolTip": "C:\\Users\\monge\\source\\repos\\sistema_escolar\\sistema_escolar\\Form1.cs",
+              "RelativeToolTip": "sistema_escolar\\Form1.cs",
+              "ViewState": "AQIAABQAAACgAAAAAAAiwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:18:47.76Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\monge\\source\\repos\\sistema_escolar\\sistema_escolar\\Menu.cs",
+              "RelativeDocumentMoniker": "sistema_escolar\\Menu.cs",
+              "ToolTip": "C:\\Users\\monge\\source\\repos\\sistema_escolar\\sistema_escolar\\Menu.cs",
+              "RelativeToolTip": "sistema_escolar\\Menu.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAqwLAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:26:51.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\monge\\source\\repos\\sistema_escolar\\sistema_escolar\\Menu.cs",
+              "RelativeDocumentMoniker": "sistema_escolar\\Menu.cs",
+              "ToolTip": "C:\\Users\\monge\\source\\repos\\sistema_escolar\\sistema_escolar\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sistema_escolar\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:16:42.438Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
